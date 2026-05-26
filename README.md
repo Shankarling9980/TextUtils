@@ -1,9 +1,15 @@
-TextUtils 🚀
+TextUtils 
+
 A responsive and user-friendly text utility web application built using React.js. This project helps users perform multiple text operations such as converting text to uppercase/lowercase, removing extra spaces, copying text, and counting words & characters instantly.
- Features
+
+* Features:-
+  
 Convert text to Uppercase
+
 Convert text to Lowercase
+
 Remove extra spaces
+
 Copy text to clipboard
 Clear text instantly
 Word and character counter
